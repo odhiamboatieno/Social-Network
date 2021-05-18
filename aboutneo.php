@@ -80,7 +80,7 @@
 	</div>
 	<div class=" sliderimg2">
 		<div class="_35dk">
-			<div class="_23lf">ShareTime to muslim brother</div>
+			<div class="_23lf">ShareTime to the world</div>
 			<div class="_35dm">Wherever you go, whatever you do, stay close to the people who matter.</div>
 		</div>
 	</div>
@@ -90,7 +90,7 @@
 	<div class=" sliderimg3">
 		<div class="_35dk">
 			<div class="_23lf">Get update over ther world</div>
-			<div class="_35dm">Every moment, every second get update what's happing in the world.</div>
+			<div class="_35dm">Every moment, every second get update about what is happening in the world.</div>
 		</div>
 	</div>
 	<div>
