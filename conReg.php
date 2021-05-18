@@ -13,9 +13,9 @@
 <div>
 	<div><?php include ( "./inc/login.inc.php" ); ?></div>
 	<div class="succReg">
-		<p>Assalamu Alaikum Brother</p><br><br>
+		<p>Congratulations</p><br><br>
 		<h1>Registration successfull. Nowadays ShareTime.com is free for well known brother.</h1>
-		<h1>Within 12 hours confirmation email send to you insha-allah .</h1>
+		<h1>Within 10 minutes confirmation you will receive a confirmation email insha-allah .</h1>
 	</div>
 	<div><?php include ( "./inc/footer.inc.php"); ?></div>
 </div>
