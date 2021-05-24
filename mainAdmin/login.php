@@ -24,7 +24,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin Login</title>
+	<title>Sharetime Admin Login</title>
 	<link rel="stylesheet" type="text/css" href="adminStyle.css">
 </head>
 <body style="background-color: #9304b9;">
