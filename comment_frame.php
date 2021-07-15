@@ -174,7 +174,7 @@ if (isset($_REQUEST['id'])) {
 		
 	}
 	}else {
-		echo "<center><br><br><br>Opps! There is no comment to view.</center>";
+		echo "<center><br><br><br>Opps! There are no comments to view.</center>";
 	}
 
 ?>
