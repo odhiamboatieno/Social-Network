@@ -104,7 +104,7 @@ if (isset($_POST['ShareTimeComment' . $getid . ''])) {
 			</div>
 		";
 	}else {
-		$get_msg_num = mysqli_query($con,"SELECT  * FROM pvt_messages WHERE user_from='$ShareTime_to' AND user_to='$user' LIMIT 2");
+		$get_msg_num = mysqli_query($con,"SELECT  * FROM pvt_messages WHERE user_from='$ShareTime_to' AND user_to='$user' LIMIT 3");
 			$female_msg = mysqli_num_rows($get_msg_num);
 			if ($female_msg >=1 ) {
 				echo "
