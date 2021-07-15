@@ -174,7 +174,7 @@ $first_name_user = $get_result['first_name'];
 						include ( "./inc/newsfeed.inc.php" );
 						$lastid = $row['id'];
 					}
-					echo '<li class="getmore" id="'.$lastid.'" >Show More</li>';
+					echo '<li class="getmore" id="'.$lastid.'" >Load More</li>';
 					echo '</ul>';
 					}
 					echo '
